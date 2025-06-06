@@ -41,6 +41,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 
 ---
 ---
+---
 ## Programming Languages 💻
 
 <img 
@@ -108,6 +109,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 
 ---
 ---
+---
 ## Tecnologies and Systems 📼
 
 <img 
@@ -166,18 +168,19 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
                     
 ---
 ---
+---
 ## Statistics 📊
 
 <p align="left">
     <img 
         alt="GitHub Statistics"
-        height="300px"
+        height="150px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true"
     />
     <img 
         alt="Top Languages"
-        height="300px"
+        height="150px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
      />
