@@ -107,6 +107,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 
+
+
 ## Tecnologies and Systems 📼
 
 <img 
@@ -162,6 +164,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
+
+
 
 
 
