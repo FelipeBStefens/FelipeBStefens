@@ -7,14 +7,14 @@ I'm truly passionate about **Data Science** 🔬, **Artificial Intelligence** �
 
 By the end of my course, I will also have learned **Full Stack Development** 🌐, expanding my skills across both **Frontend** and **Backend** technologies.
 
-<div style="margin-top: 30px;"></div>
+<p>&nbsp;</p>
 ## Actual skills 📈
 - Programming in **Java** ☕
 - Working with SQL **Databases** 💾
 
 I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 
-<br/>
+<p>&nbsp;</p>
 <p align = "left">
     <a href = "https://www.linkedin.com/in/felipe-bianchi-stefens-7bb9b0303/">
         <img 
@@ -39,8 +39,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     </a>
 </p>
 
-<div style="margin-top: 30px;"></div>
-<div style="margin-top: 30px;"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 ## Programming Languages 💻
 
 <img 
@@ -106,7 +106,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-<div style="margin-top: 30px;"></div>
+<p>&nbsp;</p>
 ## Tecnologies and Systems 📼
 
 <img 
@@ -163,8 +163,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
-<div style="margin-top: 30px;"></div>
-<div style="margin-top: 30px;"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 ## Statistics 📊
 
 <p align="left">
