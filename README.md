@@ -42,7 +42,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 ## Programming Languages 💻
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "Java"
     title = "Java"
     width = "30px"
@@ -51,7 +51,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "Pyhton"
     title = "Python"
     width = "30px"
@@ -60,7 +60,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
    
 <img 
-    allign = "left"
+    align = "left"
     alt = "C#"
     title = "C#"
     width = "30px"
@@ -69,7 +69,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
                  
 <img 
-    allign = "left"
+    align = "left"
     alt = "SQL"
     title = "SQL"
     width = "30px"
@@ -78,7 +78,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "HTML"
     title = "HTML"
     width = "30px"
@@ -87,7 +87,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
           
 <img 
-    allign = "left"
+    align = "left"
     alt = "CSS"
     title = "CSS"
     width = "30px"
@@ -96,7 +96,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
           
 <img 
-    allign = "left"
+    align = "left"
     alt = "JavaScript"
     title = "JavaScript"
     width = "30px"
@@ -108,7 +108,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 ## Tecnologies and Systems 📼
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "VsCode"
     title = "VsCode"
     width = "30px"
@@ -117,7 +117,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "MySQL"
     title = "MySQL"
     width = "30px"
@@ -126,7 +126,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "Windows"
     title = "Windows"
     width = "30px"
@@ -135,7 +135,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "Linux"
     title = "Linux"
     width = "30px"
@@ -144,7 +144,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "Git"
     title = "Git"
     width = "30px"
@@ -153,7 +153,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />          
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "GitHub"
     title = "GitHub"
     width = "30px"
@@ -165,7 +165,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 ## Statistics 📊
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "GitHub Statistics"
     height = "200px"
     style = "padding-right: 10px;"
@@ -173,7 +173,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 />                   
 
 <img 
-    allign = "left"
+    align = "left"
     alt = "GitHub Statistics"
     height = "200px"
     style = "padding-right: 10px;"
