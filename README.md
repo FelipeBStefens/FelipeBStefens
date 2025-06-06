@@ -37,7 +37,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
             src = "https://custom-icon-badges.demolab.com/github/stars/FelipeBStefens?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
         />
     </a>
-</p><br><br>
+</p><br>
 
 
 
@@ -47,7 +47,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "Java"
     title = "Java"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -56,7 +56,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "Pyhton"
     title = "Python"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -65,7 +65,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "C#"
     title = "C#"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
@@ -74,7 +74,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "SQL"
     title = "SQL"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
@@ -83,7 +83,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "HTML"
     title = "HTML"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
@@ -92,7 +92,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "CSS"
     title = "CSS"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
@@ -101,7 +101,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "JavaScript"
     title = "JavaScript"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 /><br><br>
@@ -115,7 +115,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "VsCode"
     title = "VsCode"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
@@ -124,7 +124,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "MySQL"
     title = "MySQL"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
@@ -133,7 +133,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "Windows"
     title = "Windows"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
 />
@@ -142,7 +142,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "Linux"
     title = "Linux"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
@@ -151,7 +151,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "Git"
     title = "Git"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />          
@@ -160,7 +160,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     align = "left"
     alt = "GitHub"
     title = "GitHub"
-    width = "30px"
+    width = "50px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 /><br><br>
@@ -174,13 +174,13 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 <p align="left">
     <img 
         alt="GitHub Statistics"
-        height="150px"
+        height="170px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true"
     />
     <img 
         alt="Top Languages"
-        height="150px"
+        height="170px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
      />
