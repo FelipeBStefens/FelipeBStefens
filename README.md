@@ -172,13 +172,13 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 <p align="left">
     <img 
         alt="GitHub Statistics"
-        height="170px"
+        height="165px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true"
     />
     <img 
         alt="Top Languages"
-        height="150px"
+        height="165px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
      />
