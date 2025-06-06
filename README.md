@@ -7,7 +7,7 @@ I'm truly passionate about **Data Science** 🔬, **Artificial Intelligence** �
 
 By the end of my course, I will also have learned **Full Stack Development** 🌐, expanding my skills across both **Frontend** and **Backend** technologies.
 
-<br/>
+<div style="margin-top: 30px;"></div>
 ## Actual skills 📈
 - Programming in **Java** ☕
 - Working with SQL **Databases** 💾
@@ -39,8 +39,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     </a>
 </p>
 
-<br/>
-<br/>
+<div style="margin-top: 30px;"></div>
+<div style="margin-top: 30px;"></div>
 ## Programming Languages 💻
 
 <img 
@@ -106,7 +106,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-<br/>
+<div style="margin-top: 30px;"></div>
 ## Tecnologies and Systems 📼
 
 <img 
@@ -163,8 +163,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
-<br/>
-<br/>
+<div style="margin-top: 30px;"></div>
+<div style="margin-top: 30px;"></div>
 ## Statistics 📊
 
 <p align="left">
