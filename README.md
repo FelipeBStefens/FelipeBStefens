@@ -37,7 +37,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
             src = "https://custom-icon-badges.demolab.com/github/stars/FelipeBStefens?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
         />
     </a>
-</p>
+</p><br><br>
 
 
 
@@ -104,7 +104,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/><br>
+/><br><br>
 
 
 
@@ -163,7 +163,7 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     width = "30px"
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/><br>
+/><br><br>
 
 
 
