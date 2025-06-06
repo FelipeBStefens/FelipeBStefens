@@ -7,14 +7,14 @@ I'm truly passionate about **Data Science** 🔬, **Artificial Intelligence** �
 
 By the end of my course, I will also have learned **Full Stack Development** 🌐, expanding my skills across both **Frontend** and **Backend** technologies.
 
-<br/>
+---
 ## Actual skills 📈
 - Programming in **Java** ☕
 - Working with SQL **Databases** 💾
 
 I'll **always** explore new **technologies** and grow as a **developer**! 🚀
 
-<br/>
+---
 <p align = "left">
     <a href = "https://www.linkedin.com/in/felipe-bianchi-stefens-7bb9b0303/">
         <img 
@@ -39,8 +39,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     </a>
 </p>
 
-<br/>
-<br/>
+---
+---
 ## Programming Languages 💻
 
 <img 
@@ -106,8 +106,8 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
-<br/>
-<br/>
+---
+---
 ## Tecnologies and Systems 📼
 
 <img 
@@ -164,20 +164,20 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
                     
-<br/>
-<br/>
+---
+---
 ## Statistics 📊
 
 <p align="left">
     <img 
         alt="GitHub Statistics"
-        height="200px"
+        height="300px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true"
     />
     <img 
         alt="Top Languages"
-        height="200px"
+        height="300px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
      />
