@@ -15,11 +15,18 @@ By the end of my course, I will also have learned **Full Stack Development** ðŸŒ
 I'll **always** explore new **technologies** and grow as a **developer**! ðŸš€
 
 
-<p align = "left">
+<p align = "left"> 
     <a href = "https://www.linkedin.com/in/felipe-bianchi-stefens-7bb9b0303/">
         <img 
             alt = "LinkedIn" 
             title = "Connect with me on LinkedIn" 
+            src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+        />
+    </a>
+    <a href = "https://leetcode.com/u/LipeBStefens/">
+        <img 
+            alt = "Leet Code" 
+            title = "See my Leet Code" 
             src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
         />
     </a>
