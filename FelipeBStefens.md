@@ -22,6 +22,13 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
             src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
         />
     </a>
+    <a href = "https://leetcode.com/u/LipeBStefens/">
+        <img 
+            alt = "Leet Code" 
+            title = "See my Leet Code" 
+            src = "https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+        />
+    </a>
     <a href = "https://github.com/FelipeBStefens?tab=followers">
         <img 
             alt = "Followers" 
@@ -179,3 +186,4 @@ I'll **always** explore new **technologies** and grow as a **developer**! 🚀
     style = "padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
 />   
+
