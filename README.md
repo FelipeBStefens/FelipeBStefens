@@ -67,7 +67,7 @@
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&hide_title=false" height="165" />
-</p> 
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&hide_title=false" height="165" />
+</p>
