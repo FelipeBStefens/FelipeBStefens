@@ -24,32 +24,34 @@
     </a>
 </p>
 
-<p align="left">
-    <img src="assets/gifs/hacker.gif" width="275" align="left" style="margin-right: 20px;">
-    <h1>Programming Languages</h1>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3"/ width="275">
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="assets/gifs/hacker.gif" width="275">
+    </td>
+    <td>
+      <h1>Programming Languages</h1>
+      <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
+    </td>
+  </tr>
+</table>
 
-<br clear="left"/> 
-
-<p align="right">
-    <img src="assets/gifs/cat.gif" width="275" align="right" style="margin-left: 20px;">
-    <h1 style="display: inline;">Frameworks and Libraries</h1>
-    <hr align="left" style="margin-top:5px; margin-bottom:0px;">
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
-    <br><br>
-    <h1 style="display: inline;">Frameworks and Libraries</h1>
-    <hr align="left" style="margin-top:5px; margin-bottom:0px;">
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
-</p>
+<table border="0" align="right">
+  <tr>
+    <td align="right">
+      <h1>Frameworks and Libraries</h1>
+      <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
+      <br><br>
+      <h1>Tools and Systems</h1>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
+    </td>
+    <td>
+      <img src="assets/gifs/cat.gif" width="275">
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
-
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file To pick icons-->
 
 <!-- https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif -->
