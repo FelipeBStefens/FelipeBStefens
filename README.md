@@ -60,8 +60,8 @@
 
 <div align="center">
     <h1>Operational Systems</h1>
-    <img src="./assets/gifs/windows.gif" width="350" align="left">    
-    <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="350" align="right">
+    <img src="./assets/gifs/windows.gif" width="300" align="left">    
+    <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="300" align="right">
 </div>
 
 <br clear="both"/>
