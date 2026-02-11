@@ -25,3 +25,7 @@
         <img src="./assets/icons/follow.svg" width="40" height="40">
     </a>
 </p>
+
+<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file To pick icons-->
+
+<!-- https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif -->
