@@ -24,12 +24,10 @@
     </a>
 </p>
 
-<br>
-
 <p align="left">
     <img src="assets/gifs/hacker.gif" width="275" align="left" style="margin-right: 20px;">
-    <h1 style="display: inline;">Programming Languages</h1>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <h1>Programming Languages</h1>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3"/ width="275">
 </p>
 
