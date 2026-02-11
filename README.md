@@ -67,7 +67,11 @@
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBStefens&theme=merko" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeBStefens&theme=dracula" height="170" />
   &nbsp;
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&hide_title=false" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeBStefens&theme=dracula" height="170" />
 </p>
