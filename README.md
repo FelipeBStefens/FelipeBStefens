@@ -66,17 +66,8 @@
 
 <br clear="both"/>
 
-<p align="left">
-    <img 
-        alt="GitHub Statistics"
-        height="165px"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true"
-    />
-    <img 
-        alt="Top Languages"
-        height="165px"
-        style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
-     />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&hide_title=false" height="165" />
 </p> 
