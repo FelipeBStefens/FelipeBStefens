@@ -2,8 +2,6 @@
   <img src="./assets/header.svg">
 </p>
 
-<br>
-
 <p align="center">
     <a href="mailto:lipebianchistefens@gmail.com">
         <img src="./assets/icons/email.svg" width="40" height="40">
@@ -26,44 +24,36 @@
     </a>
 </p>
 
-<br><br>
-
-<table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-        <td>
-            <img src="assets/gifs/hacker.gif" width="275"/>
-        </td>
-        <td valign="top">
-            <h1 style="margin:15px 0 0 0; padding:0;">Programming Languages</h1>
-            <hr align="left" style="margin-top:5px; margin-bottom:35px;">
-            <p align="center">
-                <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3"/>
-            </p>
-        </td>
-    </tr>
-</table>
-
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-        <td valign="top">
-            <h1 style="margin:15px 0 0 0; padding:0;">Frameworks and Libraries</h1>
-            <hr align="left" style="margin-top:5px; margin-bottom:15px;">
-            <p align="center">
-                <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4" />
-            </p>
-            <h1 style="margin:15px 0 0 0; padding:0;">Systems</h1>
-            <hr align="left" style="margin-top:5px; margin-bottom:15px;">
-            <p align="center">
-                <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
-            </p>
-        </td>
-        <td>
-            <img src="assets/gifs/cat.gif" width="275"/>
-        </td>
-    </tr>
-</table>
+<p align="left">
+    <img src="assets/gifs/hacker.gif" width="275" align="left" style="margin-right: 20px;">
+    <h1 style="display: inline;">Programming Languages</h1>
+    <hr align="left" style="margin-top:5px; margin-bottom:0px;">
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3"/ width="275">
+</p>
+
+<br clear="left"/> 
+
+<p align="right">
+    <img src="assets/gifs/cat.gif" width="275" align="right" style="margin-left: 20px;">
+    <h1 style="display: inline;">Frameworks and Libraries</h1>
+    <hr align="left" style="margin-top:5px; margin-bottom:0px;">
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
+    <br><br>
+    <h1 style="display: inline;">Frameworks and Libraries</h1>
+    <hr align="left" style="margin-top:5px; margin-bottom:0px;">
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
+</p>
+
+<br clear="right"/>
+
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file To pick icons-->
 
 <!-- https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif -->
