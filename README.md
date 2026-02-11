@@ -25,23 +25,27 @@
 </p>
 
 <div>
-    <img src="assets/gifs/hacker.gif" width="275" align="left" style="margin-right: 20px;">
-    <h1>Programming Languages</h1>
-    <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
+    <img src="assets/gifs/hacker.gif" width="275" align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <div style="display: inline-block;">
+        <h1 style="border: none;">Programming Languages</h1>
+        <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
+    </div>
 </div>
 
 <br clear="left"/>
 <br>
 
-<div>
-    <img src="assets/gifs/cat.gif" width="275" align="right" style="margin-left: 20px;">
-    <div align="right">
-        <h1>Frameworks and Libraries</h1>
+<div align="right">
+    <img src="assets/gifs/cat.gif" width="275" align="right">
+    <div style="display: inline-block; text-align: right;">
+        <h1 style="border: none;">Frameworks and Libraries</h1>
         <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
         <br><br>
-        <h1>Tools and Systems</h1>
+        <h1 style="border: none;">Tools and Systems</h1>
         <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
     </div>
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br clear="right"/>
