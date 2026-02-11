@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <h1>Other Accounts 👀</h1>
+</p>
+<p align="center">
     <a href="mailto:lipebianchistefens@gmail.com">
         <img src="./assets/icons/email.svg" width="40" height="40">
     </a>
@@ -27,9 +30,11 @@
 <br>
 
 <p align="center">
+  <h1>GitHub Statistics 📈</h1>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBStefens&theme=merko" height="170" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeBStefens&theme=dracula" height="150" />
   &nbsp;
