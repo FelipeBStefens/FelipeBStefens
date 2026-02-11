@@ -24,12 +24,14 @@
     </a>
 </p>
 
+<br>
+
 <table border="0">
   <tr>
     <td>
-      <img src="assets/gifs/hacker.gif" width="275">
+      <img src="assets/gifs/hacker.gif" width="350">
     </td>
-    <td>
+    <td style="vertical-align:top;"> 
       <h1>Programming Languages</h1>
       <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
     </td>
@@ -41,7 +43,7 @@
 
 <table border="0" align="right">
   <tr>
-    <td align="right">
+    <td align="right" style="vertical-align:top;">
       <h1>Frameworks and Libraries</h1>
       <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
       <br><br>
@@ -49,12 +51,17 @@
       <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
     </td>
     <td>
-      <img src="assets/gifs/cat.gif" width="275">
+      <img src="assets/gifs/cat.gif" width="350">
     </td>
   </tr>
 </table>
 
 <br clear="right"/>
-<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file To pick icons-->
 
-<!-- https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif -->
+<div align="center">
+    <h1>Operational Systems</h1>
+    <img src="./assets/gifs/windows.gif" width="350" align="left">    
+    <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="350" align="right">
+</div>
+
+<br clear="both"/>
