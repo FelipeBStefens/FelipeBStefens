@@ -24,29 +24,35 @@
     </a>
 </p>
 
-<div>
-    <img src="assets/gifs/hacker.gif" width="275" align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <div style="display: inline-block;">
-        <h2 style="border: none;">Programming Languages</h2>
-        <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
-    </div>
-</div>
+<table border="0">
+  <tr>
+    <td>
+      <img src="assets/gifs/hacker.gif" width="275">
+    </td>
+    <td>
+      <h1>Programming Languages</h1>
+      <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
+    </td>
+  </tr>
+</table>
 
 <br clear="left"/>
 <br>
 
-<div align="right">
-    <div style="display: inline-block; text-align: right;">
-        <h2 style="border: none;">Frameworks and Libraries</h2>
-        <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
-        <br><br>
-        <h2 style="border: none;">Tools and Systems</h2>
-        <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
-    </div>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="assets/gifs/cat.gif" width="275" align="right">
-</div>
+<table border="0" align="right">
+  <tr>
+    <td align="right">
+      <h1>Frameworks and Libraries</h1>
+      <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
+      <br><br>
+      <h1>Tools and Systems</h1>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
+    </td>
+    <td>
+      <img src="assets/gifs/cat.gif" width="275">
+    </td>
+  </tr>
+</table>
 
 <br clear="right"/>
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file To pick icons-->
