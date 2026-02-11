@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="mailto:lipebianchistefens@gmail.com">
-        <img src="./assets/icons/email.svg" width="40" height="40">
+        <img src="https://raw.githubusercontent.com/FelipeBStefens/FelipeBStefens/main/assets/icons/email.svg" width="40" height="40">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <a href="https://www.linkedin.com/in/felipe-bianchi-stefens-7bb9b0303/">
