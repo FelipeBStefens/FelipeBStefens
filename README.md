@@ -60,8 +60,23 @@
 
 <div align="center">
     <h1>Operational Systems</h1>
-    <img src="./assets/gifs/windows.gif" width="300" align="left">    
-    <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="300" align="right">
+    <img src="./assets/gifs/windows.gif" width="300">    
+    <img src="https://media.tenor.com/_6N6J2xPY_wAAAAj/tux-linux.gif" width="300">
 </div>
 
 <br clear="both"/>
+
+<p align="left">
+    <img 
+        alt="GitHub Statistics"
+        height="165px"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=FelipeBStefens&show_icons=true&theme=merko&include_all_commits=true"
+    />
+    <img 
+        alt="Top Languages"
+        height="165px"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBStefens&theme=merko&layout=compact&custom_title=Statistics"
+     />
+</p> 
