@@ -1,15 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="40" height="40" fill="#fff" viewBox="0 0 512 512">
+    width="40" height="40" fill="#fff" viewBox="-40 -40 592 592" style="overflow: visible">
 
-    <style>
-        svg { 
-            transition: transform .6s ease; 
-        }
+    <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1;1.12;1"
+        dur="3s"
+        repeatCount="indefinite"
+        begin="0s"/>
 
-        svg:hover { 
-            transform: rotate(360deg) scale(1.25); 
-        }
-    </style>
 
     <rect width="512" height="512" fill="#0077b5" rx="15%"></rect>
     <circle cx="142" cy="138" r="37"></circle>
