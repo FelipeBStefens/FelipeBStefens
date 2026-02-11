@@ -24,32 +24,25 @@
     </a>
 </p>
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="assets/gifs/hacker.gif" width="275">
-    </td>
-    <td>
-      <h1>Programming Languages</h1>
-      <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
-    </td>
-  </tr>
-</table>
+<div>
+    <img src="assets/gifs/hacker.gif" width="275" align="left" style="margin-right: 20px;">
+    <h1>Programming Languages</h1>
+    <img src="https://skillicons.dev/icons?i=java,mysql,python,html,css,js&perline=3" />
+</div>
 
-<table border="0" align="right">
-  <tr>
-    <td align="right">
-      <h1>Frameworks and Libraries</h1>
-      <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
-      <br><br>
-      <h1>Tools and Systems</h1>
-      <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
-    </td>
-    <td>
-      <img src="assets/gifs/cat.gif" width="275">
-    </td>
-  </tr>
-</table>
+<br clear="left"/>
+<br>
+
+<div>
+    <img src="assets/gifs/cat.gif" width="275" align="right" style="margin-left: 20px;">
+    <div align="right">
+        <h1>Frameworks and Libraries</h1>
+        <img src="https://skillicons.dev/icons?i=spring,scikitlearn,tensorflow,svelte&perline=4"/>
+        <br><br>
+        <h1>Tools and Systems</h1>
+        <img src="https://skillicons.dev/icons?i=vscode,idea,mysql,postman,git,github&perline=6" />
+    </div>
+</div>
 
 <br clear="right"/>
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file To pick icons-->
