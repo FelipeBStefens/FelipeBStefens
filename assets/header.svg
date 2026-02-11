@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="380" viewBox="0 0 854 380">
+
+  <defs>
+
+        <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        
+            <stop offset="0%" stop-color="#55c23a"/>
+            <stop offset="25%" stop-color="#3fa52c"/>
+            <stop offset="50%" stop-color="#2c7d1f"/>
+            <stop offset="75%" stop-color="#215e18"/>
+            <stop offset="100%" stop-color="#184a13"/>
+        </linearGradient>
+
+        <clipPath id="wave1">
+        
+            <path>
+                <animate attributeName="d" dur="10s" repeatCount="indefinite"
+                    values="
+                    M0 300 Q180 330 427 315 T854 325 V0 H0 Z;
+                    M0 315 Q180 290 427 340 T854 305 V0 H0 Z;
+                    M0 300 Q180 330 427 315 T854 325 V0 H0 Z"/>
+            </path>
+        </clipPath>
+
+        <clipPath id="wave2">
+            
+            <path>
+                <animate attributeName="d" dur="14s" repeatCount="indefinite"
+                    values="
+                    M0 315 Q220 350 427 325 T854 340 V0 H0 Z;
+                    M0 330 Q220 300 427 360 T854 320 V0 H0 Z;
+                    M0 315 Q220 350 427 325 T854 340 V0 H0 Z"/>
+            </path>
+        </clipPath>
+
+        <clipPath id="wave3">
+        
+            <path>
+                <animate attributeName="d" dur="18s" repeatCount="indefinite"
+                    values="
+                    M0 330 Q200 315 427 355 T854 325 V0 H0 Z;
+                    M0 345 Q200 370 427 315 T854 355 V0 H0 Z;
+                    M0 330 Q200 315 427 355 T854 325 V0 H0 Z"/>
+            </path>
+        </clipPath>
+
+        <clipPath id="wave4">
+        
+            <path>
+                <animate attributeName="d" dur="22s" repeatCount="indefinite"
+                    values="
+                    M0 345 Q240 375 427 340 T854 365 V0 H0 Z;
+                    M0 360 Q240 330 427 380 T854 340 V0 H0 Z;
+                    M0 345 Q240 375 427 340 T854 365 V0 H0 Z"/>
+            </path>
+        </clipPath>
+
+        <clipPath id="wave5">
+        
+            <path>
+                <animate attributeName="d" dur="26s" repeatCount="indefinite"
+                    values="
+                    M0 360 Q260 345 427 380 T854 350 V0 H0 Z;
+                    M0 375 Q260 400 427 350 T854 385 V0 H0 Z;
+                    M0 360 Q260 345 427 380 T854 350 V0 H0 Z"/>
+            </path>
+        </clipPath>
+  </defs>
+
+    <rect width="100%" height="360"
+        fill="url(#greenGrad)"
+        clip-path="url(#wave1)"/>
+
+    <rect width="100%" height="360"
+        fill="url(#greenGrad)"
+        opacity="0.85"
+        clip-path="url(#wave2)"/>
+
+    <rect width="100%" height="360"
+        fill="url(#greenGrad)"
+        opacity="0.65"
+        clip-path="url(#wave3)"/>
+
+    <rect width="100%" height="360"
+        fill="url(#greenGrad)"
+        opacity="0.45"
+        clip-path="url(#wave4)"/>
+
+    <rect width="100%" height="360"
+        fill="url(#greenGrad)"
+        opacity="0.30"
+        clip-path="url(#wave5)"/>
+
+
+    <text x="30" y="100"
+            font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="44"
+            font-weight="900"
+            fill="#000000">
+        Felipe Bianchi Stefens
+    </text>
+
+    <text x="100" y="190"
+            font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="30"
+            font-weight="600"
+            fill="#000000">
+        Hello! 👋
+    </text>
+
+    <text x="794" y="175"
+            text-anchor="end"
+            font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="18"
+            font-weight="600"
+            fill="#000000">
+
+        <tspan x="794" dy="2.5em">
+            I'm studying Software Development 🦾 at IFSUL.
+        </tspan>
+
+        <tspan x="794" dy="2.5em">
+            Passionate about IT 🤖 and Math 📐.
+        </tspan>
+    </text>
+</svg>
