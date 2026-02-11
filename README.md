@@ -6,7 +6,7 @@
   <h1>Other Accounts 👀</h1>
 </div>
 <p align="center">
-    <a href="mailto:lipebianchistefens@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/#inbox">
         <img src="./assets/icons/email.svg" width="40" height="40">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
